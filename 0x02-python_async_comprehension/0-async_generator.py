@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Async Generator
+Write coroutine async_generator that takes two arguments
 """
 import random
 import asyncio
