@@ -58,8 +58,8 @@ class TestMemoize(unittest.TestCase):
     """
     def test_memoize(self):
         """Test memoize method to ensure that when
-           a_property method is called twice
-           it is correctly tested by calling a_method once
+        a_property method is called twice
+        it is correctly tested by calling a_method once
         """
 
         class TestClass:
